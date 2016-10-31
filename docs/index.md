@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# This is a project for learning how to use mkdocs and readthedocs website.
+
+In this webpage I will include the features I found useful in mkdocs. 
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
