@@ -1,4 +1,4 @@
 # Summary
 
-* learnrtd
+* [learnrtd](syntax.md)
 
