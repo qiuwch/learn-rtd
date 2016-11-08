@@ -31,3 +31,5 @@ How to reference other pages?
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+Try to use `conf.py` for building sphinx docs.
